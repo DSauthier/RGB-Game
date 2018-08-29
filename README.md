@@ -1,1 +1,1 @@
-# hello-world
+RGB Guessing game with simple logic features
